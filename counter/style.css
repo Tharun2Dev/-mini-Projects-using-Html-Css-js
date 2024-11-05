@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.heading{
+margin-top: 5rem;
+margin-left: 26rem;
+font-size: 6rem;
+}
+.container{
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+    font-size: 4rem;
+    margin-top: 2rem;
+}
+.numcontainer{
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+    font-size: 4rem;
+    margin-top: 2rem;
+}
+button{
+    height: 3rem;
+    width: 4rem;
+    border-radius: 34px;
+}
